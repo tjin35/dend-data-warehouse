@@ -33,4 +33,3 @@ Since the goal is to help analytics team to continue finding insights in what so
 ## Running the tests
 
 Run create_tables.py and follow by the etl.py in terminal to create talbes and load data.
-# dend-data-lake
